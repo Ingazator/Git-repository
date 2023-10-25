@@ -4,6 +4,7 @@ public class Main {
      *  commit2
      */
     public static void main(String[] args) {
-        String s = "Akrombek";
+        String s = "Hello World";
     }
+    private void newPrint(){}
 }
